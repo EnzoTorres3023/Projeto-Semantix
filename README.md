@@ -3,7 +3,7 @@
 
 Este projeto é a entrega final do curso de Análise de Dados da EBAC em parceria com a Semantrix. O objetivo é utilizar dados para solucionar as dores do gerenciamento de estoque em e-commerces, equilibrando o excesso (capital empatado) e a ruptura (perda de vendas e reputação).
 
-📊 **[CLIQUE NO LINK AO LADO PARA ACESSAR O DASHBOARD INTERATIVO NO LOOKER STUDIO]** *(https://lookerstudio.google.com/reporting/dc4b7bef-6064-4ce7-b679-fa42c132f3ee)*
+📊 **[CLIQUE NO LINK AO ABAIXO PARA ACESSAR O DASHBOARD INTERATIVO NO LOOKER STUDIO]** *(https://lookerstudio.google.com/reporting/dc4b7bef-6064-4ce7-b679-fa42c132f3ee)*
 
 ---
 
